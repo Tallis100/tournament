@@ -1,4 +1,4 @@
-# Tournament
+# Tournamentt
 [![npm status](http://img.shields.io/npm/v/tournament.svg)](https://www.npmjs.org/package/tournament)
 [![build status](https://secure.travis-ci.org/clux/tournament.svg)](http://travis-ci.org/clux/tournament)
 [![dependency status](https://david-dm.org/clux/tournament.svg)](https://david-dm.org/clux/tournament)
